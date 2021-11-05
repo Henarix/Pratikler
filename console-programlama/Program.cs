@@ -4,7 +4,7 @@ namespace console_programlama
 {
     class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("İsminizi giriniz:");
